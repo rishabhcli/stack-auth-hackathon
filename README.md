@@ -1,4 +1,4 @@
-# Agent Arena
+# Auth Club
 
 A live, audience-powered AI competition platform where participants directly influence how AI agents battle in real time. Built for the Stack Auth hackathon.
 
